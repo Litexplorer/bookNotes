@@ -1,4 +1,4 @@
 1. 把最原始的三个代码文件都编写完毕；
 2. 抽取了com.chen.Customer.amountFor方法；
-3. 把com.chen.Customer.amountFor中的主体方法放到了com.chen.Rental.getCharge中；
-4.
+3. 把com.chen.Customer.amountFor中的主体方法放到了com.chen.Rental.getCharge中；(p43)
+4. 把thisAoumt替换为each.getCharge()函数；（p45）
